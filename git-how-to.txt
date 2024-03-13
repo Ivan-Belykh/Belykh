@@ -1,0 +1,5 @@
+to create a key: ssh-keygen -t [type] -C [email]
+
+to add a public ssh key to github: *manually in settings*
+
+to clone a repository: git clone git@github.com:username/repository.git
